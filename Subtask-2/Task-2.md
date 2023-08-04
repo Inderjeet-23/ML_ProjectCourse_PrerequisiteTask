@@ -80,4 +80,6 @@ I trained the Non-MC model on both the datasets and then plotted the following T
 
 ![alt-text](images/PartC.png)
 
+Here we can clearly see a pattern that the points labeled from 10-19 are on the left hand side (Fashion MNIST Images) and the points labeled from 0-9 are on the right hand side (MNIST Images). This shows that there is a clear distinct between how the model operates on these different datasets.  
+
 ---
